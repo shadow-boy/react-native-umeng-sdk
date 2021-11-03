@@ -16,4 +16,12 @@ Pod::Spec.new do |s|
   s.source_files = "ios/**/*.{h,m,mm}"
 
   s.dependency "React-Core"
+
+    #基础
+    s.dependency 'UMCommon'
+    s.dependency 'UMDevice'
+    s.dependency 'UMAPM'
+  
+    #分享
+    s.dependency 'UMShare/UI'
 end
