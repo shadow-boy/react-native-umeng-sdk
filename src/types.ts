@@ -1,4 +1,4 @@
-import UAnalyticsModule from "../lib/UAnalyticsModule";
+import UAnalyticsModule from "./UAnalyticsModule";
 // import PushUtil from "../lib/PushUtil";
 import UShareModule, {
     ShareMedias,
@@ -6,7 +6,7 @@ import UShareModule, {
     ShareResultCodes,
     ShareBoardPostions,
     ShareMenuBgShapes,
-} from '../lib/UShareModule';
+} from './UShareModule';
 
 /**
  * 所有分类类型的基类型

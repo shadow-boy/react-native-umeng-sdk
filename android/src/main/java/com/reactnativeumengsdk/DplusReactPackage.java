@@ -1,4 +1,4 @@
-package com.reactlibrary.umeng;
+package  com.reactnativeumengsdk;
 
 import java.util.ArrayList;
 import java.util.Arrays;

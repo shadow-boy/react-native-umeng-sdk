@@ -169,6 +169,8 @@ RCT_EXPORT_METHOD(share:(NSInteger)shareStyle shareObject:(NSDictionary *)shareO
           }
           if([shareMediaArr count] == 1) {
               [[UMSocialManager defaultManager] shareToPlatform:[self platformType:(NSNumber*)[shareMediaArr objectAtIndex:0]] messageObject:messageObject currentViewController:nil completion:^(id data, NSError *error) {
+                  
+                  
                if (error) {
                    NSString *msg = error.userInfo[@"NSLocalizedFailureReason"];
                    if (!msg) {

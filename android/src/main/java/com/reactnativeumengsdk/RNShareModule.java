@@ -1,4 +1,4 @@
-package com.reactlibrary.umeng;
+package  com.reactnativeumengsdk;
 
 import java.io.File;
 import java.lang.reflect.Field;

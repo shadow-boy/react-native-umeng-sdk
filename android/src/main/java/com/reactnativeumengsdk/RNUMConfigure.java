@@ -1,4 +1,4 @@
-package com.reactlibrary.umeng;
+package  com.reactnativeumengsdk;
 
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
