@@ -1,6 +1,6 @@
 
 # react-native-umeng-sdk
-#### 基于 [react-native-umeng-sdk](https://npmjs.org/package/react-native-umeng-sdk) 修改部分原生依赖和原生代码
+#### 基于 [rn-umeng-module](https://npmjs.org/package/rn-umeng-module) 修改部分原生依赖和原生代码
 
 umeng for react-native,支持统计、分享、授权
 
